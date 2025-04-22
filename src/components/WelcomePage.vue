@@ -64,9 +64,9 @@ export default {
 #start_button{
   position: absolute;
   top: 45%;
-  right: 30%;
-  height: 15%;
-  width: 40%;
+  right: 25%;
+  height: 20%;
+  width: 50%;
 }
 
 #welcome_title{
@@ -78,7 +78,6 @@ export default {
   font-weight: 700;
   font-size: 5vh;
   color: white;
-  border: 2px solid red;
   font-family: myFirstFont;
 }
 
@@ -88,7 +87,6 @@ export default {
   height: 26%;
   width: 60%;
   right: 0%;
-  border: 2px solid red;
 }
 
 #reading_boy{
