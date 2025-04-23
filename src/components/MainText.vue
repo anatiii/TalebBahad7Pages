@@ -8,7 +8,7 @@
     <div id="final_chapter">זה הפרק האחרון</div>
     <h3 id="inner_title">{{ this.nameTitle }}</h3>
     <div id="study">
-      <p id="real_study_text" v-html="currentText"></p>
+      <div id="real_study_text" v-html="currentText"></div>
     </div>
   </div>
 </template>
