@@ -2,7 +2,7 @@
     <div id="home_page">
         <h2 id="home_titles">מסך בית </h2>
       <div id="button_container">
-        <p class="episode" id="0"  @click="switchScreen" >אחריות המפקדות<br/>פרק 1</p>
+        <p class="episode" id="0"  @click="switchScreen" >אחריות המפקדות<br/> 1 פרק</p>
         <p class="episode" id="1"   @click="switchScreen" >מערכת האיכות <br/> פרק 2</p>
         <p class="episode" id="2"   @click="switchScreen" > סגלי ההדרכה <br/> פרק 3</p>
         <p class="episode" id="3"   @click="switchScreen" >פיתוח הדרכה <br/> פרק 4</p>
