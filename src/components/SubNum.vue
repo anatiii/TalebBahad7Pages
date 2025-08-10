@@ -120,6 +120,8 @@ export default {
   border-radius: 25px;
   text-align: center;
   position: relative;
+}
+#sub_text_list:hover {
   text-decoration: underline;
 }
 
